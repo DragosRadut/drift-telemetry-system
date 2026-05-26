@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../lab06"
+		},
+		{
+			"name": "drift-telemetry",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
